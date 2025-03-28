@@ -6,11 +6,7 @@ Este projeto utiliza o algoritmo **SARIMA** para prever as vendas de perfumes em
 
 ### Instalação e Configuração  
 
-#### 1. Clone o repositório e entre no diretório do projeto:  
-```bash
-git clone https://github.com/seuusuario/projeto.git
-cd projeto
-```
+#### 1. Clone o repositório e entre no diretório do projeto  
 
 ####  2. Instale as dependências necessárias:  
 ```bash
